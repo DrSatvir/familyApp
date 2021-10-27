@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Familty App</string>
+    <string name="title_gaurd">SECURITY</string>
+    <string name="title_family">MY FAMILY</string>
+    <string name="title_profile">MY PROFILE</string>
+    <string name="title_dashboard">MY DASHBOARD</string>
+    <string name="str_sos">SOS</string>
+    <string name="str_guard">GUARD</string>
+    <string name="str_sos_msg">In emergency, keep telling my family members to call me</string>
+    <string name="str_guard_msg">In emergency, keep telling my family members to call me</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
